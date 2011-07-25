@@ -1,0 +1,3 @@
+This project was started to create a replacement to STG http://leonidvm.chat.ru/
+
+STG is an application that allows real-time graphing of devices that support SNMP, initally for graphing interfaces it will be expanded to graph any SNMP oid vs. time
